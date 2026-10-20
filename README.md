@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Charan</h1>
 <h3 align="center">I'm a passionate cybersecurity engineer and Quantum cryptography Researcher</h3>
 
-- 📫 How to reach me **ssc7407@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
